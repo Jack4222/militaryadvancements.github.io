@@ -2,7 +2,6 @@
 var navbar = [0,0,0]
 
 function beans(a){
-    console.log(a)
     if(a == "item1"){
         if(navbar[0]==0){
         navbar[0]++
